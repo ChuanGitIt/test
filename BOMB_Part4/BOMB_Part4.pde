@@ -267,7 +267,7 @@ void draw(){
   else if(win)
   {
     fill(250,165,0);
-    text("GOT'em ALL",120,300);
+    text("GOT'em ALL BITCH",120,300);
   }
   else if(!win&&gameover)
   {
